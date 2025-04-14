@@ -15,4 +15,4 @@ Breakout is an engaging redesign of the landing page for an escape room website,
 ## 🎨 Screenshots  
 
 ### 📍 Landing Page  
-![Landing Page]()  
+![Landing Page](Dribbble1.png)  
